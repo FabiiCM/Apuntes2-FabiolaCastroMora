@@ -1,4 +1,4 @@
-#include <Ejercicio3.h>
+#include "Ejercicio3.h"
 #include <stdio.h>
 #include <stdlib.h>
 
